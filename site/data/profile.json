@@ -1,0 +1,12 @@
+{
+  "name": "付逸澜",
+  "role": "前端开发学习者 · 阅读体验设计",
+  "tagline": "让每一次阅读和使用，都更专注一点。",
+  "bio": "关注前端开发、信息整理和轻量工具，喜欢用细节打磨产品体验，让技术真正服务于日常工作。",
+  "location": "中国 · 杭州",
+  "email": "hello@example.com",
+  "avatar": "assets/avatar.svg",
+  "resume": "assets/resume.pdf",
+  "skills": [{"name":"HTML / CSS","level":90,"type":"基础能力"},{"name":"JavaScript","level":82,"type":"核心技能"},{"name":"浏览器插件","level":80,"type":"实践方向"},{"name":"交互设计","level":76,"type":"设计思维"}],
+  "projects": [{"title":"Focus Line 阅读辅助线","description":"给长网页增加跟随鼠标的阅读辅助线，帮助用户保持视线。","stack":"Manifest V3 · JavaScript","link":""},{"title":"专注节奏板","description":"把任务拆成可执行的节奏，用轻量界面记录每一次专注。","stack":"HTML · CSS · LocalStorage","link":""},{"title":"网页阅读工具箱","description":"围绕阅读场景整理的浏览器效率工具和交互实验。","stack":"Chrome Extension · UI Design","link":""}]
+}
